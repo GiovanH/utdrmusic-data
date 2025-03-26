@@ -119,8 +119,8 @@ Always Reference By Directory: true
 Duration: '0:45'
 URLs:
 - https://youtu.be/i7OlUrFjTZU
-Sampled Tracks:
-- Giygas's Lair
+# Sampled Tracks:
+# - Giygas's Lair
 Commentary: |-
     <i>Toby Fox:</i>
     I took Giygas's lair and just added a creepy sound to it. So easy, so effective.
@@ -160,8 +160,8 @@ Track: Bad Morning to You (Edit)
 Duration: '0:22'
 URLs:
 - https://youtu.be/Bt-z1UDcIGw
-Sampled Tracks:
-- Bad Morning to You
+# Sampled Tracks:
+# - Bad Morning to You
 Commentary: |-
     <i>Jebb:</i> (wiki editor)
     This is a slightly altered version of "Bad Morning to You" with an additional instrument added. It has no official title.
@@ -170,8 +170,8 @@ Track: Power (Edit)
 Duration: '0:49'
 URLs:
 - https://youtu.be/OD94KFAddBs
-Sampled Tracks:
-- track:power-mother
+# Sampled Tracks:
+# - track:power-mother
 Commentary: |-
     <i>Jebb:</i> (wiki editor)
     This track is a rip of the original version of "Power" from Earthbound, but unlike the original, it doesn't have the bass fade-in intro. It has no official title.

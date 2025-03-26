@@ -584,8 +584,8 @@ Artists:
 Duration: '2:36'
 URLs:
 - https://www.youtube.com/watch?v=HrrWhCbZAyY
-Sampled Tracks:
-- check whosampled
+# Sampled Tracks:
+# - check whosampled
 ---
 Track: Casio VL-1 Demo
 Artists:
