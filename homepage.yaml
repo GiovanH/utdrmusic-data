@@ -10,19 +10,22 @@ Navbar Links:
 # - '[[interwiki:hsmusic:feedback|Feedback & Suggestions]]'
 # - '[[interwiki:hsmusic:discord|Discord]]'
 ---
-Row: Official Discography
-Type: albums
-Display Style: carousel
-Actions:
-- '[[group-gallery:official|Explore Official!]]'
-- '[[group-gallery:fandom|Explore Fandom!]]'
-- '[[group-gallery:beyond|Explore Beyond!]]'
+Section: Official Discography
+---
+Row: album carousel
 Albums:
 - UNDERTALE Soundtrack
 - DELTARUNE Chapter 1 OST
 - DELTARUNE Chapter 2 OST
 ---
-Row: Recent Additions
-Type: albums
+Row: actions
+Actions:
+- '[[group-gallery:official|Explore Official!]]'
+- '[[group-gallery:fandom|Explore Fandom!]]'
+- '[[group-gallery:beyond|Explore Beyond!]]'
+---
+Section: Recent Additions
+---
+Row: album grid
 Albums:
 - Undertale Yellow Soundtrack
