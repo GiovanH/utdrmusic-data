@@ -3,6 +3,8 @@ Color: '#b962b9'
 Canonical Base: https://utdr.hsmusic.wiki/
 Short Name: UTDR Music Wiki
 Wiki Wallpaper File Extension: png
+Wiki Wallpaper Style: |-
+    image-rendering: pixelated;
 Enable Flashes & Games: false
 Enable Listings: true
 Enable News: false
