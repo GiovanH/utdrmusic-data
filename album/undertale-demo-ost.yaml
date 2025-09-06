@@ -1,0 +1,121 @@
+Album: Undertale Demo OST
+Directory Suffix: undertale-demo
+Suffix Track Directories: true
+Artists:
+- Toby Fox
+Date: May 21, 2013
+Date Added: April 08, 2025
+URLs:
+- https://tobyfox.bandcamp.com/album/undertale-demo-ost
+Color: '#b962b9'
+Cover Artists:
+- Toby Fox
+Cover Art File Extension: png
+Groups:
+- Toby Fox
+- group:official
+Art Tags:
+- Golden Flowers (UNDERTALE & DELTARUNE)
+---
+Track: Once Upon a Time
+Main Release: Once Upon a Time
+Duration: 1:27
+URLs:
+- https://tobyfox.bandcamp.com/track/once-upon-a-time
+---
+Track: Menu
+Always Reference By Directory: true
+Duration: 1:36
+URLs:
+- https://tobyfox.bandcamp.com/track/menu
+Referenced Tracks:
+- Once Upon a Time
+---
+Track: Your Best Friend
+Main Release: Your Best Friend
+Duration: 0:46
+URLs:
+- https://tobyfox.bandcamp.com/track/your-best-friend
+---
+Track: Fallen Down
+Main Release: track:fallen-down-undertale
+Duration: 1:24
+URLs:
+- https://tobyfox.bandcamp.com/track/fallen-down
+---
+Track: Ruins
+Main Release: track:ruins-undertale
+Duration: 3:03
+URLs:
+- https://tobyfox.bandcamp.com/track/ruins
+---
+Track: Anticipation
+Main Release: track:anticipation
+Duration: 0:20
+URLs:
+- https://tobyfox.bandcamp.com/track/anticipation
+---
+Track: Unnecessary Tension
+Main Release: Unnecessary Tension
+Duration: 0:13
+URLs:
+- https://tobyfox.bandcamp.com/track/unnecessary-tension
+---
+Track: Enemy Approaching
+Main Release: Enemy Approaching
+Duration: 1:50
+URLs:
+- https://tobyfox.bandcamp.com/track/enemy-approaching
+---
+Track: Ghost Fight
+Main Release: Ghost Fight
+Duration: 1:42
+URLs:
+- https://tobyfox.bandcamp.com/track/ghost-fight
+---
+Track: Determination
+Main Release: Determination
+Duration: 0:46
+URLs:
+- https://tobyfox.bandcamp.com/track/determination
+---
+Track: Home
+Main Release: track:home-undertale
+Duration: 2:03
+URLs:
+- https://tobyfox.bandcamp.com/track/home
+---
+Track: Heartache
+Main Release: Heartache
+Duration: 3:36
+URLs:
+- https://tobyfox.bandcamp.com/track/heartache
+---
+Track: End
+Duration: 0:32
+URLs:
+- https://tobyfox.bandcamp.com/track/end
+Referenced Tracks:
+- Once Upon a Time
+---
+Track: Nyeh Heh Heh!
+Main Release: Nyeh Heh Heh!
+Duration: 0:32
+URLs:
+- https://tobyfox.bandcamp.com/track/nyeh-heh-heh
+---
+Track: Home (Music Box)
+Main Release: Home (Music Box)
+Duration: 2:03
+URLs:
+- https://tobyfox.bandcamp.com/track/home-music-box
+---
+Track: Empty House
+Suffix Directory: false
+Duration: 3:01
+URLs:
+- https://tobyfox.bandcamp.com/track/empty-house
+Referenced Tracks:
+- Fallen Down
+Sampled Tracks:
+- Fallen Down

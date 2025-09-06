@@ -1,0 +1,160 @@
+Album: UNDERTALE + deltarune FAN ENCORE CD
+Directory: undertale-deltarune-fan-encore-cd
+Directory Suffix: fan-encore
+Suffix Track Directories: true
+Artists:
+- Toby Fox
+Date: May 21, 2019
+#Date Added: February 5, 2024
+#URLs:
+#- 
+Color: '#ffffff'
+Cover Artwork:
+- File Extension: png
+  Artists:
+  - maitou
+  Tags:
+  - Frisk
+  - Kris (Dark World)
+Groups:
+- Toby Fox
+- group:official
+---
+Section: DELTARUNE Trial Tracks
+---
+Track: DOGTARUNE (Trailer)
+Duration: 0:16
+#URLs:
+#- 
+Commentary: |-
+    <i>Nintendo DREAM:</i> (booklet notes)
+
+    ("DELTARUNE Chapter 1" Launch Trailer)
+
+    <i>Toby Fox:</i> (booklet commentary)
+
+    この曲を作ったときは、なんも考えてなかったです。
+---
+Track: Beginning
+Main Release: track:beginning-deltarune
+Duration: 0:59
+Commentary: |-
+    <i>Nintendo DREAM:</i> (booklet notes)
+
+    (From "DELTARUNE Chapter 1")
+
+    <i>Toby Fox:</i> (booklet commentary)
+
+    手を振っている ご近所さん<br>
+    帰ってくるよ お兄ちゃん<br>
+    町は すっかり秋めいて<br>
+    旅の始まりには うってつけ
+---
+Track: Rude Buster
+Main Release: Rude Buster
+Directory: rude-buster-fan-encore-cd
+Duration: 2:44
+Commentary: |-
+    <i>Nintendo DREAM:</i> (booklet notes)
+
+    (From "DELTARUNE Chapter 1")
+
+    <i>Toby Fox:</i> (booklet commentary)
+
+    この曲のメロディは5年前に作ったもので･･･<br>
+    ん･･･? 今、この文章を書き直してる時点では、6年前か。<br>
+    どうなっちゃってるの!?
+---
+Section: UNDERTALE Encore
+---
+Track: SE Collection
+Main Release: track:se-collection
+Duration: 2:25
+Commentary: |-
+    <i>Nintendo DREAM:</i> (booklet notes)
+
+    (Mixed by [[artist:toby-fox]])
+---
+Track: MEGALOVANIA
+Main Release: track:megalovania-undertale
+Duration: 5:14
+---
+Track: Hopes and Dreams
+Main Release: Hopes and Dreams
+Duration: 6:03
+---
+Track: Battle Against a True Hero
+Main Release: Battle Against a True Hero
+Duration: '5:12'
+---
+Track: Ruins
+Main Release: track:ruins-undertale
+Duration: 1:34
+---
+Section: MUSIC Engine Orchestra
+---
+Track: Ruins
+Directory: ruins-music-engine-fan-encore
+Always Reference By Directory: true
+Artists:
+- MUSIC Engine
+Contributors:
+- Kota Kawai (Arrangement)
+- Yasutaka Nakamura (Orchestration)
+Duration: 1:53
+Referenced Tracks:
+- track:ruins-undertale
+Commentary: |-
+    <i>Nintendo DREAM:</i> (booklet notes)
+
+    (from "MUSIC Engine UNDERTALE CD Vol.2: Toriel")
+---
+Track: Anticipation / Enemy Approaching
+Directory: anticipation-enemy-approaching-music-engine-fan-encore
+Always Reference By Directory: true
+Artists:
+- MUSIC Engine
+Contributors:
+- Kota Kawai (Arrangement)
+- Yasutaka Nakamura (Orchestration)
+Duration: 2:23
+Referenced Tracks:
+- Anticipation
+- Enemy Approaching
+Commentary: |-
+    <i>Nintendo DREAM:</i> (booklet notes)
+
+    (from "MUSIC Engine UNDERTALE CD Vol.2: Toriel")
+---
+Track: CORE / Death by Glamour
+Directory: core-death-by-glamour-music-engine-fan-encore-cd
+Always Reference By Directory: true
+Artists:
+- MUSIC Engine
+Contributors:
+- Kota Kawai (Arrangement)
+- Yasutaka Nakamura (Orchestration)
+Duration: 3:58
+Referenced Tracks:
+- CORE
+- Death by Glamour
+Commentary: |-
+    <i>Nintendo DREAM:</i> (booklet notes)
+
+    (from "MUSIC Engine UNDERTALE CD Vol.3: Alphys & Mettaton")
+---
+Track: For the Fans
+Directory: for-the-fans-music-engine-fan-encore-cd
+Always Reference By Directory: true
+Artists:
+- MUSIC Engine
+Contributors:
+- Kota Kawai (Arrangement)
+- Yasutaka Nakamura (Orchestration)
+Duration: 1:49
+Referenced Tracks:
+- For the Fans
+Commentary: |-
+    <i>Nintendo DREAM:</i> (booklet notes)
+
+    (from "MUSIC Engine UNDERTALE CD Vol.3: Alphys & Mettaton")

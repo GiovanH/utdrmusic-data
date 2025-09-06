@@ -22,6 +22,13 @@ URLs:
 - https://www.facebook.com/anamanaguchi
 - http://anamanaguchi.com/
 ---
+Artist: ASmolBoy
+---
+Artist: bit
+Directory: bit-uint32
+URLs:
+- https://bsky.app/profile/bit-uint32.bsky.social
+---
 Artist: blunttheking
 URLs:
 - https://www.tumblr.com/blunttheking
@@ -71,6 +78,8 @@ Artist: emBer
 Artist: emil
 URLs:
 - https://emil.tumblr.com/
+---
+Artist: Fangamer
 ---
 Artist: Figburn
 URLs:
@@ -150,6 +159,8 @@ Artist: Kirvia
 URLs:
 - https://kirvia.tumblr.com/
 ---
+Artist: Kota Kawai
+---
 Artist: Laura Shigihara
 URLs:
 - https://laurashigihara.bandcamp.com/
@@ -196,6 +207,8 @@ URLs:
 - https://youtube.com/@MasterSwordRemix
 - https://twitter.com/MasterSwrdRemix
 ---
+Artist: Materia Collective
+---
 Artist: Maxo
 Aliases:
 - Max Coburn
@@ -234,6 +247,8 @@ URLs:
 - https://www.instagram.com/mouthless_palfrey/
 - https://louispalfrey.com/
 ---
+Artist: MUSIC Engine
+---
 Artist: MyNewSoundtrack
 URLs:
 - https://mynewsoundtrack.bandcamp.com/
@@ -246,6 +261,8 @@ Artist: Naoki Kaneda
 Artist: Naoto Tanaka
 ---
 Artist: Niklink
+---
+Artist: Nintendo DREAM
 ---
 Artist: Nobuo Uematsu
 ---
@@ -382,5 +399,7 @@ URLs:
 - https://www.youtube.com/channel/UC3u-cle9p3AoxM1qnEiMCqg
 Dead URLs:
 - https://twitter.com/WitchsCadence
+---
+Artist: Yasutaka Nakamura
 ---
 Artist: Yoshinori Kitase

@@ -1,0 +1,201 @@
+Album: UNDERTALE FAN SELECTION CD
+Directory Suffix: fan-selection
+Suffix Track Directories: true
+Artists:
+- Toby Fox
+Date: October 20, 2018
+#Date Added: January 12, 2021
+#URLs:
+#- 
+Color: '#f26800'
+Cover Artists:
+- Nintendo DREAM
+Cover Art File Extension: png
+Groups:
+- Toby Fox
+- group:official
+Art Tags:
+- Sans
+---
+Section: Nintendo Switch Trailer Music
+---
+Track: Mew Mew Intro (Trailer)
+Duration: 0:17
+URLs:
+- https://www.youtube.com/watch?v=HUd7hex_6h8
+---
+Section: Top 10 songs chosen by fans (double loop)
+---
+Track: Song That Might Play When You Fight Sans
+Main Release: Song That Might Play When You Fight Sans
+Duration: 2:02
+URLs:
+- https://www.youtube.com/watch?v=sbUq8L4_Ypk
+Commentary: |-
+    <i>Nintendo DREAM:</i> (booklet notes)
+
+    (double loop)
+---
+Track: Bonetrousle
+Main Release: Bonetrousle
+Duration: 1:58
+URLs:
+- https://www.youtube.com/watch?v=zu569jDjx2o
+Commentary: |-
+    <i>Nintendo DREAM:</i> (booklet notes)
+
+    (double loop)
+---
+Track: ASGORE
+Main Release: ASGORE
+Duration: 5:14
+URLs:
+- https://www.youtube.com/watch?v=ut4KQeMMPMo
+Commentary: |-
+    <i>Nintendo DREAM:</i> (booklet notes)
+
+    (double loop)
+---
+Track: Undertale
+Main Release: Undertale
+Duration: 6:25
+URLs:
+- https://www.youtube.com/watch?v=mf6hifdXFgk
+---
+Track: Spider Dance
+Main Release: Spider Dance
+Duration: 3:30
+URLs:
+- https://www.youtube.com/watch?v=sG3vQ1AiYLQ
+Commentary: |-
+    <i>Nintendo DREAM:</i> (booklet notes)
+
+    (double loop)
+---
+Track: Hopes and Dreams
+Main Release: Hopes and Dreams
+Duration: 6:04
+URLs:
+- https://www.youtube.com/watch?v=OSgr0ro9A1w
+Commentary: |-
+    <i>Nintendo DREAM:</i> (booklet notes)
+
+    (double loop)
+---
+Track: Death by Glamour
+Main Release: Death by Glamour
+Duration: 4:31
+URLs:
+- https://www.youtube.com/watch?v=48RhaY_DrYA
+Commentary: |-
+    <i>Nintendo DREAM:</i> (booklet notes)
+
+    (double loop)
+---
+Track: SAVE the World
+Main Release: SAVE the World
+Duration: 3:43
+URLs:
+- https://www.youtube.com/watch?v=48RhaY_DrYA
+Commentary: |-
+    <i>Nintendo DREAM:</i> (booklet notes)
+
+    (double loop)
+---
+Track: Battle Against a True Hero
+Main Release: Battle Against a True Hero
+Duration: 5:13
+URLs:
+- https://www.youtube.com/watch?v=UNrWDwvgNNo
+Commentary: |-
+    <i>Nintendo DREAM:</i> (booklet notes)
+
+    (double loop)
+---
+Track: MEGALOVANIA
+Main Release: track:megalovania-undertale
+Duration: 5:15
+URLs:
+- https://www.youtube.com/watch?v=JcsHQDWZLGc
+Commentary: |-
+    <i>Nintendo DREAM:</i> (booklet notes)
+
+    (double loop)
+---
+Section: Live Arrangements
+---
+Track: Waterfall ##re-release of MUSIC Engine arrangement album vol.1
+Directory: waterfall-music-engine-fan-selection
+Always Reference By Directory: true
+Duration: 4:17
+Artists:
+- MUSIC Engine
+Contributors:
+- Kota Kawai (Arrangement)
+- Yasutaka Nakamura (Orchestration)
+URLs:
+- https://www.youtube.com/watch?v=WxMznO6hh1k
+Referenced Tracks:
+- Waterfall
+- Quiet Water
+Commentary: |-
+    <i>Nintendo DREAM:</i> (booklet notes)
+
+    (From "MUSIC Engine UNDERTALE ARRANGE Vol.1: Undyne")
+---
+Track: NGAHHH!! ##re-release of MUSIC Engine arrangement album vol.1
+Directory: ngahhh-music-engine-fan-selection
+Always Reference By Directory: true
+Duration: 2:01
+Artists:
+- MUSIC Engine
+Contributors:
+- Kota Kawai (Arrangement)
+- Yasutaka Nakamura (Orchestration)
+URLs:
+- https://www.youtube.com/watch?v=Ko9yHQH_rwo
+Referenced Tracks:
+- NGAHHH!!
+Commentary: |-
+    <i>Nintendo DREAM:</i> (booklet notes)
+
+    (From "MUSIC Engine UNDERTALE ARRANGE Vol.1: Undyne")
+---
+Track: Undertale
+Directory: undertale-music-engine-fan-selection
+Always Reference By Directory: true
+Duration: 6:25
+Artists:
+- MUSIC Engine
+Contributors:
+- Kota Kawai (Arrangement)
+- Yasutaka Nakamura (Orchestration)
+Referenced Tracks:
+- Undertale
+URLs:
+- https://www.youtube.com/watch?v=HevgBy4K-QA
+Commentary: |-
+    <i>Nintendo DREAM:</i> (booklet notes)
+
+    (Live recording from "MUSIC Engine 5th Concert")
+---
+Section: SE Collection
+---
+Track: SE Collection
+Suffix Directory: false
+Duration: 2:23
+URLs:
+- https://www.youtube.com/watch?v=OYrZBI1gZYE
+#Sampled Tracks: ##someone's gonna have fun with this in the future...
+Commentary: |-
+    <i>Nintendo DREAM:</i> (booklet notes)
+
+    (Mixed by [[artist:toby-fox]])
+Referencing Sources: |-
+    <i>leo60228:</i> (wiki editor, [album addition pull request review](https://github.com/hsmusic/hsmusic-data/pull/733#discussion_r2038741096), 4/11/2025)
+
+    actually i think this should block merging. you need to add every single undertale sound effect as its own track. this is essential (no it isnt)
+
+    <i>ruby:</i> (wiki editor, [album addition pull request review](https://github.com/hsmusic/hsmusic-data/pull/733#discussion_r2038937507), 4/11/2025)
+
+    Have Fun.
