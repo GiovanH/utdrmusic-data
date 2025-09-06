@@ -750,7 +750,7 @@ Duration: '1:05'
 URLs:
 - https://www.youtube.com/watch?v=z_yPqzH1bo8
 Referenced Tracks:
-- Basement
+- track:basement-deltarune
 - Meltdown
 - Enter Axis
 ---
@@ -1040,7 +1040,7 @@ URLs:
 Track: Flock Together
 Artists:
 - MasterSwordRemix
-- Glitchedpie
+- GlitchedPie
 Duration: '1:32'
 URLs:
 - https://www.youtube.com/watch?v=E0ETbIXQTvs

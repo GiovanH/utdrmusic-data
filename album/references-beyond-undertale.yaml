@@ -40,6 +40,89 @@ URLs:
 ---
 Section: Miscellany by Toby Fox
 ---
+Track: '74'
+Additional Names:
+- Name: >-
+    Seventy Four
+  Annotation: >-
+    [Apple Music](https://music.apple.com/album/seventy-four/1418425430?i=1418425439)
+Artists:
+- Itoki Hana
+- Toby Fox
+Contributors:
+- Itoki Hana (vocals, lyrics, arrangement)
+- Toby Fox (vocals, lyrics, composition)
+Duration: 3:33
+URLs:
+- https://open.spotify.com/track/0Q2eLJmspNc9jUAtOhotAe
+- https://music.apple.com/album/seventy-four/1418425430?i=1418425439
+- https://www.youtube.com/watch?v=poKI_MY0Bkw
+Lyrics: |-
+    Seventy-three
+    時だけが過ぎてゆく
+    孤独と 朽ちた王宮の果てで
+
+    Seventy-three
+    階層 罠の奥
+    わたしは 勇者を待っている
+
+    Seventy-three
+    数えた犠牲者に
+    涙が またひとつ こぼれる･･･
+
+    門を開けて 彼が叫んだ
+    "My princess don't despair
+    A hero's come to free you"
+
+    赤と希望 まとう姿に 笑みを送る
+    "My hero, save me won't you"
+
+    My heart is pounding breathless
+    To know a hero is on the way
+
+    My knight in shining armor
+    Whose courage pushes the dark a-
+
+    Seventy-three
+    彼は塔を登る
+    わたしの わたしのためだけに!
+
+    それでも 残酷な魔の手は
+    勇者の 命を 削りゆく
+
+    Seventy-three
+    犠牲は 増えるだろう
+    涙が またひとつ こぼれる
+
+    けれど彼は 笑って 言うの
+    "Don't worry Princess
+    Such a scratch could never stop me"
+
+    ベルのように 鎧を鳴らし
+    次の階へ 駆け上がりゆく
+
+    My heart is pounding breathless
+    To know a hero is on the way
+
+    My knight in shining armor
+    Whose courage pushes the dark a-(way)
+
+    「最後」の罠が 彼に狙い定めた
+    窓から告げる 「ありがとう、愛しい･････････」
+
+    なんてことを やってくれたの?
+    すべての仕打ちを乗り越えて
+    彼が来るわ そして知るのよ
+    「愛しの姫」は「幻」だと!
+
+    ここを出たら わたしのための
+    物語が終わってしまうの
+
+    ドアが開き 仮面をはずす
+    炎の息吹で焼きつけた
+
+    Seventy-four
+---
 Track: Nightmare Knight
 Artists:
 - Toby Fox
@@ -73,6 +156,13 @@ Commentary: |-
     patient
 
     not gonna use this for anything
+---
+Track: Penumbra Phantasm
+Artists:
+- Toby Fox
+URLs:
+- https://www.youtube.com/watch?v=RIq4GrMv96I
+- https://www.youtube.com/watch?v=OdntMzdkFnk
 ---
 Track: Terezi's Theme
 Artists:
@@ -188,6 +278,15 @@ Commentary: |-
     <i>Homestuck:</i> (original track art)
     <img src="media/misc/theme.jpg" width="300">
 ---
+Track: Theme
+Directory: theme-rose-of-winter
+Always Reference By Directory: true
+Artists:
+- Toby Fox
+Duration: 1:37
+URLs:
+- https://youtu.be/vWhUfWQX8-Q
+---
 Section: Music from video games
 ---
 Track: A Bad Dream
@@ -217,6 +316,18 @@ Artists:
 Duration: '3:57'
 URLs:
 - https://www.youtube.com/watch?v=MLHR9ltzuWM
+---
+Track: Bad Morning to You
+# From Earthbound, which had an official album release but this track isn't on it.
+# Reference:
+#   https://en.wikipedia.org/wiki/Music_of_the_Mother_series
+Artists:
+- Mother
+- Keiichi Suzuki
+- Hirokazu Tanaka
+Duration: 0:33
+URLs:
+- https://youtu.be/Dooe-myh0VE
 ---
 Track: Boy Meets Girl
 # JP: ボーイ ミーツ ガール (BOY MEETS GIRL)
@@ -270,6 +381,30 @@ Artists:
 Duration: '1:37'
 URLs:
 - https://youtu.be/YM75br4y4Z0
+---
+Track: GADOBADORRER
+# Official release:
+#   ミュージック・フロム・ブランディッシュ2 ザ・プラネット・バスター
+# Reference:
+#   https://vgmdb.net/album/3703
+Artists:
+- Brandish
+- Naoki Kaneda
+Duration: 1:36
+URLs:
+- https://www.youtube.com/watch?v=1H5R08f5Uts
+---
+Track: Giygas's Lair
+# From Earthbound, which had an official album release but this track isn't on it.
+# Reference:
+#   https://en.wikipedia.org/wiki/Music_of_the_Mother_series
+Artists:
+- Mother
+- Keiichi Suzuki
+- Hirokazu Tanaka
+Duration: 0:55
+URLs:
+- https://youtu.be/Wq8FK9Z_RGQ
 ---
 Track: Holding Back Tears
 # JP: パワー
@@ -328,14 +463,39 @@ Artists:
 URLs:
 - https://www.youtube.com/watch?v=bQzYJBTBVEc
 ---
-Track: Onett Theme
-# (See Eight Melodies, no official soundtrack release)
+Track: Onett
+# JP: オネットのテーマ
+# Official release:
+#   マザー2 ギーグの逆襲
+# Note:
+#   Translated name is via YouTube Music.
+# Reference:
+#   https://vgmdb.net/album/800
+#   https://music.youtube.com/watch?v=cC3RAh9-zvQ
 Artists:
 - Mother
 - Keiichi Suzuki
 - Hirokazu Tanaka
+Duration: 1:20
 URLs:
-- https://www.youtube.com/watch?v=XKfXsTkA71I
+- https://www.youtube.com/watch?v=cC3RAh9-zvQ
+---
+Track: Power
+Directory: power-mother
+Always Reference By Directory: true
+# Most often known as "The Power" but for some reason in the official release it's titled differently.
+# JP: パワー
+# Official release:
+#   マザー2 ギーグの逆襲
+# Reference:
+#   https://vgmdb.net/album/800
+Artists:
+- Mother
+- Keiichi Suzuki
+- Hirokazu Tanaka
+Duration: 1:09
+URLs:
+- https://youtu.be/NpdNpTOPFOE
 ---
 Track: Prologue
 Directory: prologue-earthbound
@@ -818,3 +978,12 @@ Commentary: |-
     <i>Undertale Wiki:</i>
     ([Fandom](https://undertale.fandom.com/wiki/Flowey))
     Flowey's laugh is not a new asset and can be recognized in other media. It was originally a Warner Bros. sound effect mostly used in Pink Panther cartoons and has appeared in titles such as the PlayStation title [Tomba!](https://www.youtube.com/watch?v=2aBa-iQSkxc) and the Homestuck soundtrack The Lordling, also by Toby Fox.
+---
+Track: WOW
+Directory: wow-mother
+Always Reference By Directory: true
+Artists:
+- Mother
+Duration: 0:01
+URLs:
+- https://www.youtube.com/watch?v=dQvacicf08A
