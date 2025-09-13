@@ -1,7 +1,7 @@
 Homepage: Homepage
 Sidebar Content: |-
     <h1>Get involved!</h1>
-    - [Send feedback, fixes, and suggestions!](https://hsmusic.wiki/feedback/)
+    - [[static:feedback|Send feedback, fixes, and suggestions!]]
     - [Join the community Discord server!](https://hsmusic.wiki/discord/)
 Navbar Links:
 - '[[listing-index:-|Listings]]'
