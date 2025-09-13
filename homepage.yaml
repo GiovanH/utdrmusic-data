@@ -5,10 +5,11 @@ Sidebar Content: |-
     - [Join the community Discord server!](https://hsmusic.wiki/discord/)
 Navbar Links:
 - '[[listing-index:-|Listings]]'
-# - '[[interwiki:hsmusic|HSMusic Wiki]]'
-# - '[[interwiki:hsmusic:about|About & Credits]]'
-# - '[[interwiki:hsmusic:feedback|Feedback & Suggestions]]'
-# - '[[interwiki:hsmusic:discord|Discord]]'
+- '[[news-index:-|News]]'
+- '[HSMusic Wiki](https://hsmusic.wiki)'
+- '[[static:about]]'
+- '[[static:feedback]]'
+- '[Discord](https://hsmusic.wiki/discord/)'
 ---
 Section: Official Discography
 ---
