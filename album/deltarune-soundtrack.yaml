@@ -40,7 +40,6 @@ Referenced Tracks:
 ---
 Track: School
 Suffix Directory: true
-Always Reference By Directory: true
 Duration: 1:20
 URLs:
 - https://tobyfox.bandcamp.com/track/school
@@ -68,7 +67,6 @@ Referenced Tracks:
 ---
 Track: Cliffs
 Suffix Directory: true
-Always Reference By Directory: true
 Duration: 0:35
 URLs:
 - https://tobyfox.bandcamp.com/track/cliffs
@@ -156,7 +154,6 @@ Sampled Tracks:
 ---
 Track: Lantern
 Suffix Directory: true
-Always Reference By Directory: true
 Duration: 1:08
 URLs:
 - https://tobyfox.bandcamp.com/track/lantern
@@ -222,7 +219,6 @@ Referenced Tracks:
 ---
 Track: Basement
 Suffix Directory: true
-Always Reference By Directory: true
 Duration: 0:27
 URLs:
 - https://tobyfox.bandcamp.com/track/basement
@@ -283,7 +279,6 @@ URLs:
 ---
 Track: Gallery
 Suffix Directory: true
-Always Reference By Directory: true
 Duration: 0:12
 URLs:
 - https://tobyfox.bandcamp.com/track/gallery
@@ -331,7 +326,6 @@ Referenced Tracks:
 ---
 Track: Friendship
 Suffix Directory: true
-Always Reference By Directory: true
 Duration: 2:40
 URLs:
 - https://tobyfox.bandcamp.com/track/friendship
@@ -455,7 +449,6 @@ URLs:
 ---
 Track: Queen
 Suffix Directory: true
-Always Reference By Directory: true
 Duration: 0:56
 URLs:
 - https://tobyfox.bandcamp.com/track/queen
@@ -1638,7 +1631,6 @@ Referenced Tracks:
 ---
 Track: GUARDIAN
 Suffix Directory: true
-Always Reference By Directory: true
 Duration: 3:46
 URLs:
 - https://www.youtube.com/watch?v=nP9mB1sVJz4
