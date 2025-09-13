@@ -7,13 +7,15 @@ Color: '#f5fc8e'
 # TODO: handle these properly!
 Section: Unreleased Tracks
 ---
-Track: Room of Dog
+Track: cybercity_alt
 # No official release, duration is from the in-game audio loop.
 Artists:
-- 'Toby Fox'
-Duration: '0:35'
+- Toby Fox
+Duration: 2:22
 URLs:
-- https://www.youtube.com/watch?v=grGnVeKCcvc
+- https://www.youtube.com/watch?v=WyPD3YMhwnQ
+Referenced Tracks:
+- WELCOME TO THE CITY
 ---
 Track: Game Main Theme (Piano Sketch)
 # No official release, duration is based on its appearance during the "UNDERTALE 6th Anniversary So We Play DELTARUNE Chapter 1 For Some Reason" pre-stream.
@@ -37,6 +39,29 @@ Directory: gasters-theme
 Duration: 0:17
 URLs:
 - https://www.youtube.com/watch?v=CFn8xs157Gw
+---
+Track: man
+Directory: man-deltarune
+Always Reference By Directory: true
+# No official release, duration is from the in-game audio loop.
+Artists:
+- Toby Fox
+Duration: 0:11
+URLs:
+- https://www.youtube.com/watch?v=lEJpVwvKq1g
+Referenced Tracks:
+- waltz of seccom masada
+Commentary: |-
+    <i>Niklink:</i> (wiki editor, 8/6/2023)
+    Originally shared in a 2012 Tumblr post as part of several [[album:made-up-yume-nikkis|"made up yume nikkis"]] snippets where it was known as [[track:waltz-of-seccom-masada|"waltz of seccom masada"]].
+---
+Track: Room of Dog
+# No official release, duration is from the in-game audio loop.
+Artists:
+- 'Toby Fox'
+Duration: '0:35'
+URLs:
+- https://www.youtube.com/watch?v=grGnVeKCcvc
 ---
 Section: Miscellany by Toby Fox
 ---
@@ -747,6 +772,16 @@ URLs:
 # Sampled Tracks:
 # - check whosampled
 ---
+Track: Cascade (Beta)
+Additional Names:
+- Descend2 (original name)
+Artists:
+- Tensei
+Duration: 4:06
+URLs:
+- https://homestuck.bandcamp.com/track/cascade-beta-2
+- https://youtu.be/Svy9DBBZKpk
+---
 Track: Casio VL-1 Demo
 Artists:
 - Unknown Artist
@@ -951,6 +986,43 @@ Commentary: |-
     Now here's a secret, why this song is called Doctor, and what this song is based on. Believe it or not this song is actually based on [[track:moonsong|Moonsong]] and Mischievous Robot from [[artist:cave-story|Cave Story]]. I wrote this song right shortly after Super Smash Brothers Brawl came out for the Wii. I know because I was playing that while I wrote it. There is a constant tone much like in Mischievous Robot that plays in the background and it's actually supposed to be a heartbeat monitor. This actually just stays constant the entire time (tone changes) except for when it changes right there (tone changes again) yeah it shows you how much I know about my own music (tone switches to alternating between two different tones.) But I try to keep that a constant side beat in the back there.
     We're here to talk about music so if you want to see any more of my music in this fashion, perhaps with a little more in-depth viewer, if you think there's something I missed or something that you're curious about with the music please let me know. I'm actually really open to talking about it, I think it's kind of cool that it went this far. I'm still actually listening to all the freaking remixes of this song that are online right now. You have to understand that I'm completely blown away.
 ---
+Track: Flare
+Artists:
+- Clark Powell
+Duration: 3:03
+URLs:
+- https://homestuck.bandcamp.com/track/flare-2
+- https://youtu.be/ktuDYYtbs2s
+Referenced Tracks:
+- Flare (Cascade Cut)
+---
+Track: Flare (Cascade Cut)
+Duration: 3:12
+Artists:
+- Clark Powell
+Referenced Tracks:
+- Cascade (Beta)
+URLs:
+- https://www.youtube.com/watch?v=VYPMzHAYSRc
+---
+Track: Lotus
+Artists:
+- Seth Peelle
+Duration: 1:39
+URLs:
+- https://homestuck.bandcamp.com/track/lotus-2
+---
+Track: Moonsetter
+Artists:
+- Toby Fox
+Contributors:
+- Samm Neiland (viola)
+- Clark Powell (cello)
+Duration: 2:21
+URLs:
+- https://homestuck.bandcamp.com/track/moonsetter-2
+- https://youtu.be/75kJb_aAvKY
+---
 Track: unreeeal superhero 3
 Artists:
 - REZ
@@ -964,6 +1036,24 @@ Commentary: |-
     Done in coop with my fellow mate Rez to express our love to our sexy friend Unreal :)
 
     On a side note, i would like to thanks A LOT all musicians around who made us a real pleasure in making a remix of this tune... You ROX!
+---
+Track: Upward Movement (Dave Owns)
+Additional Names:
+- Upward Movement (earlier MSPA credit)
+Artists:
+- Kalibration
+Contributors:
+- Andrew Huo (edits)
+Duration: 4:20
+URLs:
+- https://homestuck.bandcamp.com/track/upward-movement-dave-owns-3
+- https://youtu.be/j6UiUu_7LVc
+Referenced Tracks:
+- track:amen-brother
+Commentary: |-
+    <i>Quasar Nebula:</i> (wiki editor, 11/23/2023)
+
+    Andrew Huo's edits aren't described more specifically, nor credited on Bandcamp; this credit is pulled from [the original MSPA sound credits](https://web.archive.org/web/20100210001701/http://www.mspaintadventures.com/soundcredits.html). It was removed sometime between [June 12, 2012](https://web.archive.org/web/20120621202058/http://www.mspaintadventures.com/soundcredits.html) and [August 5, 2012](https://web.archive.org/web/20120805031705/http://www.mspaintadventures.com/soundcredits.html), when the sound credits were updated with proper links back to Bandcamp.
 ---
 Section: Other works originating outside of Undertale
 Color: '#8ccaf1'
