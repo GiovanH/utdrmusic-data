@@ -1,0 +1,36 @@
+Name: Changelog
+Directory: changelog
+Style: |-
+    h2:not(.major-release) {
+        font-size: 1.1em;
+    }
+
+    h2.major-release {
+        font-size: 1.4em;
+    }
+
+    h2 {
+        /* `!important` is to overwrite `margin-bottom: -3px` set by the
+         * "custom hash links" site.css section on all `.content-heading`
+         * elements. It's a bit of a hack, sorry!
+         */
+        margin-bottom: calc(0.3em - 3px) !important;
+    }
+
+    h3 {
+        margin: 0;
+        font-size: 1em;
+    }
+
+    ul {
+        margin-top: 0.2em;
+        margin-bottom: 0.6em;
+    }
+
+    #content details {
+        margin-top: 0.5em;
+        margin-bottom: 0.5em;
+    }
+Content: |-
+    <h2 id="15-sep-2025"><html:a href="#15-sep-2025">[[date:15 September 2025]] - SING A SONG ABOUT HOPES AND DREAMS</a><h2>
+    <h3>initial release</h3>
