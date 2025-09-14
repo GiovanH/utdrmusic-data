@@ -7,7 +7,7 @@ Wiki Wallpaper Style: |-
     image-rendering: pixelated;
 Enable Flashes & Games: false
 Enable Listings: true
-Enable News: false
+Enable News: true
 Enable Art Tag UI: false
 Enable Group UI: true
 Divide Track Lists By Groups:
