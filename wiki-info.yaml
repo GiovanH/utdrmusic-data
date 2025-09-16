@@ -8,7 +8,7 @@ Wiki Wallpaper Style: |-
 Enable Flashes & Games: false
 Enable Listings: true
 Enable News: true
-Enable Art Tag UI: false
+Enable Art Tag UI: true
 Enable Group UI: true
 Divide Track Lists By Groups:
 - group:official
