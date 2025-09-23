@@ -32,5 +32,10 @@ Style: |-
         margin-bottom: 0.5em;
     }
 Content: |-
+    <h2 id="31-oct-2025"><html:a href="#31-oct-2025">[[date:31 October 2025]] - The flowers lie in skies that roll forever</a><h2>
+    <h3>data fixes</h3>
+    - added bonus track art to [[album:kindred-souls]] (thanks, Lilith!)
+    - fixed additional files for [[album:kindred-souls]] (thanks, ruby!)
+
     <h2 id="15-sep-2025"><html:a href="#15-sep-2025">[[date:15 September 2025]] - SING A SONG ABOUT HOPES AND DREAMS</a><h2>
     <h3>initial release</h3>
