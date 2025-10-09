@@ -1,4 +1,5 @@
 Album: 10th Anniversary Stream Soundtrack
+Directory Suffix: 10th
 Artists:
 - Toby Fox
 Date: September 21, 2025
@@ -15,31 +16,50 @@ Track: Abandoned Town
 Duration: 1:03
 Contributors:
 - Marcy Nabors (transcription)
+Referenced Tracks:
+- Faint Courage (Game Over)
+- THE HOLY
 ---
 Track: Doghole
 Duration: 0:44
+#Originally Released As: dog hole (unused) # TODO: when https://github.com/hsmusic/utdrmusic-data/pull/7 is merged
 ---
 Track: Memory (10 Years Later)
 Duration: 1:45
+Referenced Tracks:
+- Memory
+Sampled Tracks:
+- Memory
 ---
 Track: Pseudo Legendary Tree
 Duration: 0:26
 ---
 Track: School
+Suffix Directory: true
+Always Reference By Directory: true
 Duration: 1:22
+Referenced Tracks:
+- Once Upon a Time
+- Reunited
 ---
 Track: Snowdrift
 Duration: 1:17
+Referenced Tracks:
+- track:shop-undertale
 ---
 Track: Snowed Inn Jazz
 Duration: 0:42
 Artists:
 - Carlos Eiene
+Referenced Tracks:
+- Determination
 ---
 Track: Song That Plays When Somebody Verses Sans
 Duration: 1:45
 Artists:
 - Carlos Eiene
+Referenced Tracks:
+- track:megalovania-undertale
 ---
 Track: Strongerer Monsters
 Duration: 1:11
@@ -56,8 +76,12 @@ Track: what's up
 Duration: 1:55
 Artists:
 - Carlos Eiene
+Referenced Tracks:
+- track:sans
 ---
 Track: Wrong Number Remix
 Duration: 0:07
 Artists:
 - Camellia
+Referenced Tracks:
+- Wrong Number Song
